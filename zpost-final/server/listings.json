@@ -1,0 +1,76 @@
+{
+  "listings": [
+    {
+      "title": "Lunar Lava Plains $1,000",
+      "author": "Zach Post",
+      "shortDescription": "Prime real estate on the Moon's lava plains.",
+      "longDescription": "Own a piece of the Moon with this prime piece of real estate on the lunar lava plains. This location features stunning views of craters and mountains, and is perfect for those seeking a unique investment opportunity or a space-themed getaway.",
+      "mainImage": "https://earthsky.org/upl/2014/10/mon-volcano-2-e1413139625498.jpg",
+      "id": 1
+    },
+    {
+      "title": "Martian Mountain Ranges $700",
+      "author": "Zach Post",
+      "shortDescription": "Stunning panoramic view of Martian mountain ranges.",
+      "longDescription": "Get a front-row seat to the beauty of Mars with this breathtaking piece of real estate on the Martian mountain ranges. From this vantage point, you'll have a clear view of the red planet's rugged terrain and be able to appreciate the stunning beauty of our neighbor world.",
+      "mainImage": "https://qph.cf2.quoracdn.net/main-qimg-0a8bad99df59bbf6b8e7f5cf940178f1.webp",
+      "id": 2
+    },
+    {
+      "title": "Venusian Volcanic Vistas $1,800",
+      "author": "Zach Post",
+      "shortDescription": "Striking views of Venus's volcanic landscapes.",
+      "longDescription": "Experience the unique beauty of Venus with this piece of real estate offering breathtaking views of the planet's volcanic landscapes. With its pristine scenery and unrivaled views, this is the perfect destination for those seeking a one-of-a-kind getaway or a valuable investment.",
+      "mainImage": "https://astronomynow.com/wp-content/uploads/2021/08/PIA00234.tif-copy.jpg",
+      "id": 3
+    },
+    {
+      "title": "Mercury's Mesmerizing Craters $500,000",
+      "author": "Zach Post",
+      "shortDescription": "Captivating views of Mercury's craters.",
+      "longDescription": "Step into the heart of the inner solar system with this piece of real estate on Mercury, offering breathtaking views of the planet's craters. With its stark, otherworldly beauty and unique location, this is the ideal destination for those seeking an escape from the ordinary or a valuable investment opportunity.",
+      "mainImage": "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29PIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ce1deafd33fef0a6747c20ddae347cb5b5ac4f9c/PIA14685_hires.jpg",
+      "id": 4
+    },
+    {
+      "title": "Saturnian Ringside Views $450",
+      "author": "Zach Post",
+      "shortDescription": "Unparalleled views of Saturn and its rings.",
+      "longDescription": "Take in the beauty of the solar system's most stunning planet with this piece of real estate offering front-row views of Saturn and its rings. This location is perfect for those seeking a one-of-a-kind getaway or a valuable investment opportunity.",
+      "mainImage": "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnR3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6abd0e6f91471c0ca59c66ad468d3bc03f4de1d2/PIA21611_FigA_MAIN.gif",
+      "id": 5
+    },
+    {
+      "title": "Neptune $1,000,000",
+      "author": "Zach Post",
+      "shortDescription": "Neptune and all it's moons",
+      "longDescription": "You heard right. We got exclusive rights to sell the planet NEPTUNE and all it's moons including it's most popular, Triton!",
+      "mainImage": "https://cdn.mos.cms.futurecdn.net/PezBzd9Fehsq9XWgWMauVV.jpg",
+      "id": 6
+    },
+    {
+      "title": "Proxima B $12,000",
+      "author": "Zach Post",
+      "shortDescription": "Planet Proxima B located in the famous Proxima Centauri System.",
+      "longDescription": "Imagine... owning this beauty of a planet. Well NOW YOU CAN WHOOHOOO",
+      "mainImage": "https://imageio.forbes.com/blogs-images/startswithabang/files/2016/08/1-sBF5Vci8a-3rNyrLh3ajaw.jpg?height=680&width=704&fit=bounds",
+      "id": 7
+    },
+    {
+      "title": "Alpha Centauri A $90,000",
+      "author": "Zach Post",
+      "shortDescription": "Own a piece of the closest star system to our own.",
+      "longDescription": "Take your place among the stars with this incredible opportunity to own a piece of the Alpha Centauri star system, the closest to our own. With its beautiful brightness and proximity, this star is the perfect investment for those seeking to make their mark in the cosmos.",
+      "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alpha%2C_Beta_and_Proxima_Centauri_%281%29.jpg/1200px-Alpha%2C_Beta_and_Proxima_Centauri_%281%29.jpg",
+      "id": 8
+    },
+    {
+      "title": "Betelgeuse $21,000",
+      "author": "Zach Post",
+      "shortDescription": "One of the brightest stars in the night sky.",
+      "longDescription": "Shine bright like a star with this unique opportunity to own Betelgeuse, one of the brightest stars in the night sky. With its vibrant red color and distinctive shape, this star is sure to catch the eye and make a lasting impression.",
+      "mainImage": "https://cdn.britannica.com/75/137075-050-57D0ACFA/Betelgeuse-ultraviolet-light-Hubble-Space-Telescope.jpg",
+      "id": 9
+    }
+  ]
+}
